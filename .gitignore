@@ -1,2 +1,4 @@
 db.sqlite3
 djangovet/__pycache__/
+*/__pycache__/*
+vetoffice/migrations/__pycache__/__init__.cpython-310.pyc
